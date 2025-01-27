@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Recycled Oregon &#8211; Rawk and Wood</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Recycled Timber Furniture Makers</description>
+	<lastBuildDate>Tue, 12 May 2020 01:26:27 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2017/04/cropped-logo-100-32x32.png</url>
+	<title>Recycled Oregon &#8211; Rawk and Wood</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Timber Bed Frame</title>
+		<link>./../../../furniture/recycled-timber-bed-frame_04/index.html</link>
+		
+		<dc:creator><![CDATA[Blake Gillespie]]></dc:creator>
+		<pubDate>Tue, 27 Feb 2018 02:15:30 +0000</pubDate>
+				<guid isPermaLink="false">http://www.rawkandwood.com.au/?post_type=portfolio-item&#038;p=7871</guid>
+
+					<description><![CDATA[ID: BE_04]]></description>
+										<content:encoded><![CDATA[<p><strong>Timber Bed Frame</strong></p>
+<p>ID: BE_04</p>
+<p>Queen size</p>
+<p>&nbsp;</p>
+<p>Made from recycled Oregon hardwood</p>
+<p>&nbsp;</p>
+<p>[this is an archived post]</p>
+<p>&nbsp;</p>
+<p>see more: <span style="text-decoration: underline;"><strong><a title="" href="./../../../recycled-timber-bed-frames/index.html">Bed Frames</a></strong></span></p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Timber Entry Seat</title>
+		<link>./../../../furniture/recycled-timber-entry-seat_02/index.html</link>
+		
+		<dc:creator><![CDATA[Blake Gillespie]]></dc:creator>
+		<pubDate>Fri, 23 Feb 2018 02:05:21 +0000</pubDate>
+				<guid isPermaLink="false">http://www.rawkandwood.com.au/?post_type=portfolio-item&#038;p=7858</guid>
+
+					<description><![CDATA[ID: HT_02]]></description>
+										<content:encoded><![CDATA[<p><strong>Timber Entry Seat</strong></p>
+<p>ID: HT_02</p>
+<p>Bench seat with three storage spaces for boxes, baskets, shoes<br />
+a.k.a &#8216;mud-room seat&#8217;, &#8216;entry bench&#8217;</p>
+<p>&nbsp;</p>
+<p>Made from recycled Oregon with whitewash</p>
+<p>&nbsp;</p>
+<p>[this is an archived post]</p>
+<p>&nbsp;</p>
+<p>see more: <span style="text-decoration: underline;"><strong><a title="" href="./../../../recycled-timber-lounge-furniture/index.html">Lounge Furniture</a></strong></span></p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
